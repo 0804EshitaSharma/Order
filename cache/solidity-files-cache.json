@@ -1,0 +1,246 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/eshitasharma/Desktop/New Folder With Items/MidTerm copy/contracts/Coin.sol": {
+      "lastModificationDate": 1677307907727,
+      "contentHash": "13d0ab24861342546a5ff77dccf9e489",
+      "sourceName": "contracts/Coin.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Coin"
+      ]
+    },
+    "/Users/eshitasharma/Desktop/New Folder With Items/MidTerm copy/contracts/Order.sol": {
+      "lastModificationDate": 1677402528160,
+      "contentHash": "b4b3b20e9201b6a8bb59f69083178ab7",
+      "sourceName": "contracts/Order.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "EthazonShop"
+      ]
+    },
+    "/Users/eshitasharma/Desktop/New Folder With Items/MidTerm copy/contracts/Simple.sol": {
+      "lastModificationDate": 1677307907727,
+      "contentHash": "fcbef6969c3a919e07a8c1a7ac98e251",
+      "sourceName": "contracts/Simple.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Simple"
+      ]
+    },
+    "/Users/eshitasharma/Desktop/New Folder With Items/MidTerm copy/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1677308001491,
+      "contentHash": "4ff3cd2f6272c9a6516e9ee4f2b967d3",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">= 0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/Users/eshitasharma/Desktop/New Folder With Items/MidTerm copy/contracts/Token.sol": {
+      "lastModificationDate": 1677307907726,
+      "contentHash": "62a620b506d020e3e2eab91003b6a92c",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    },
+    "/Users/eshitasharma/Desktop/New Folder With Items/MidTerm copy/contracts/Order2.sol": {
+      "lastModificationDate": 1677403140647,
+      "contentHash": "28d14a5f53a91fa85bd9e444fc5080da",
+      "sourceName": "contracts/Order2.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": []
+    },
+    "/Users/eshitasharma/Desktop/New Folder With Items/MidTerm copy/contracts/dataTypes.sol": {
+      "lastModificationDate": 1677403118224,
+      "contentHash": "cc459786786d43b7c38862d7975902d9",
+      "sourceName": "contracts/dataTypes.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": []
+    }
+  }
+}
